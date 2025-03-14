@@ -1,0 +1,4 @@
+https://poloclub.github.io/cnn-explainer/
+https://www.kaggle.com/datasets/salader/dogs-vs-cats/code
+https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator
+https://www.kaggle.com/code/hamedetezadi/leaf-disease-prediction-using-cnn
