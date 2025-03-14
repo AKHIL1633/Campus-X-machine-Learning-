@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Sobel_operator
+https://en.wikipedia.org/wiki/Canny_edge_detector
+https://www.geeksforgeeks.org/edge-detection-using-prewitt-scharr-and-sobel-operator/
+
+
+
